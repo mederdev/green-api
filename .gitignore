@@ -1,0 +1,9 @@
+/infrastructure/.env
+
+/worker/node_modules
+/worker/dist
+/worker/.env
+
+/master/node_modules
+/master/dist
+/master/.env
